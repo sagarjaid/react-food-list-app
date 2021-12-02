@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-food-list-app/static/css/main.fc32fc56.chunk.css",
+    "main.js": "/react-food-list-app/static/js/main.3eae9360.chunk.js",
+    "main.js.map": "/react-food-list-app/static/js/main.3eae9360.chunk.js.map",
+    "runtime-main.js": "/react-food-list-app/static/js/runtime-main.06aa16e3.js",
+    "runtime-main.js.map": "/react-food-list-app/static/js/runtime-main.06aa16e3.js.map",
+    "static/js/2.059ba0cc.chunk.js": "/react-food-list-app/static/js/2.059ba0cc.chunk.js",
+    "static/js/2.059ba0cc.chunk.js.map": "/react-food-list-app/static/js/2.059ba0cc.chunk.js.map",
+    "index.html": "/react-food-list-app/index.html",
+    "static/css/main.fc32fc56.chunk.css.map": "/react-food-list-app/static/css/main.fc32fc56.chunk.css.map",
+    "static/js/2.059ba0cc.chunk.js.LICENSE.txt": "/react-food-list-app/static/js/2.059ba0cc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.06aa16e3.js",
+    "static/js/2.059ba0cc.chunk.js",
+    "static/css/main.fc32fc56.chunk.css",
+    "static/js/main.3eae9360.chunk.js"
+  ]
+}
